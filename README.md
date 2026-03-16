@@ -10,5 +10,4 @@
 
  ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=apl45&show_icons=true&theme=dark)
 
-<a href="alexandre.lacerda36@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
-</a>
+
